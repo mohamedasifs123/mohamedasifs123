@@ -51,8 +51,8 @@ Developed a donation platform with **Razorpay** integration, enabling secure mul
 
 ## 📫 Let's Connect!
 
-- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/mohamed-asif-954895218)  
-- 🐙 **GitHub:** [github.com/yourusername](https://github.com/mohamedasifs123)
+- 💼 **LinkedIn:** [linkedin.com](https://linkedin.com/in/mohamed-asif-954895218)  
+- 🐙 **GitHub:** [github.com](https://github.com/mohamedasifs123)
 
 ---
 
