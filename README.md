@@ -1,59 +1,17 @@
-# 👋 Hey there, I'm Mohamed Asif!
+# 💫 About Me:
+# 👋 Hey there, I'm Mohamed Asif!<br><br>🎓 **LFX Mentee@[**opiproject**](https://github.com/opiproject) | Full-Stack Developer | Network Telemetry Enthusiast**  <br>💡 Passionate about building scalable applications, monitoring complex systems, and solving real-world problems with code.<br><br>---<br><br>## 🚀 About Me<br><br>As an **Engineering Intern** at **The Linux Foundation**, I’m developing **dashboards** and **telemetry pipelines** for **DPUs/IPUs** from industry giants like **NVIDIA**, **MARVELL**, **AMD**, and **INTEL**. I specialize in **network telemetry**, **full-stack development**, and **cloud technologies**.<br><br>I love pushing the boundaries of what's possible with **OpenTelemetry**, **DOCA SDK**, and **Grafana**, while also crafting intuitive web applications using the **MERN stack**. From real-time data streaming to seamless user experiences, I thrive at the intersection of performance and usability.<br><br>---<br><br>## 🛠️ Tech Stack<br><br>- **Languages:** Java, C/C++, Python, Golang, Bash  <br>- **Web Development:** React.js, Node.js, Express.js, Tailwind CSS  <br>- **Database:** MongoDB, MySQL  <br>- **Monitoring & Telemetry:** Telegraf, Grafana, OpenTelemetry, Arista Switches  <br>- **Cloud & DevOps:** Docker, Kubernetes, Ansible, Google Cloud  <br>- **Tools:** Git, CI/CD, Automation, YAML  <br><br>---<br><br>## 🌟 Featured Projects<br><br>### 📊 **Telemetry Dashboards for DPUs/IPUs**  <br>Developed dynamic dashboards and telemetry pipelines for **NVIDIA BlueField DPUs**, leveraging **DOCA SDK** and **OpenTelemetry** for real-time monitoring.<br><br>### 🖥️ **Job Portal Application**  <br>Built a dynamic, full-stack **MERN** job portal with advanced filtering, secure user authentication, and salary estimation features.<br><br>### 💬 **React Chat App with Golang Backend**  <br>Created a real-time chat application using **React.js** and **Golang**, utilizing **WebSocket** for seamless communication.<br><br>### 💸 **Donation Site with Payment Integration**  <br>Developed a donation platform with **Razorpay** integration, enabling secure multi-platform transactions with a smooth user interface.<br><br>---<br><br>## 🏆 Achievements<br><br>- **LFX Mentee at The Linux Foundation**, selected from over 1000+ applicants.<br>- Enhanced resource monitoring efficiency by **40%** with telemetry pipelines and real-time data from **Arista network switches**.<br>- Optimized backend APIs, reducing job posting latency by **40%** in my Job Portal app.<br>- Contributed to open-source projects in **network telemetry** and **monitoring tools**.<br><br>---<br><br>## <br><br>_"The best way to predict the future is to invent it."_ 🚀<br>
 
-🎓 **LFX Mentee@[**opiproject**](https://github.com/opiproject) | Full-Stack Developer | Network Telemetry Enthusiast**  
-💡 Passionate about building scalable applications, monitoring complex systems, and solving real-world problems with code.
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/mohamed-asif-954895218) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asifabu272@gmail.com) 
 
-## 🚀 About Me
-
-As an **Engineering Intern** at **The Linux Foundation**, I’m developing **dashboards** and **telemetry pipelines** for **DPUs/IPUs** from industry giants like **NVIDIA**, **MARVELL**, **AMD**, and **INTEL**. I specialize in **network telemetry**, **full-stack development**, and **cloud technologies**.
-
-I love pushing the boundaries of what's possible with **OpenTelemetry**, **DOCA SDK**, and **Grafana**, while also crafting intuitive web applications using the **MERN stack**. From real-time data streaming to seamless user experiences, I thrive at the intersection of performance and usability.
-
----
-
-## 🛠️ Tech Stack
-
-- **Languages:** Java, C/C++, Python, Golang, Bash  
-- **Web Development:** React.js, Node.js, Express.js, Tailwind CSS  
-- **Database:** MongoDB, MySQL  
-- **Monitoring & Telemetry:** Telegraf, Grafana, OpenTelemetry, Arista Switches  
-- **Cloud & DevOps:** Docker, Kubernetes, Ansible, Google Cloud  
-- **Tools:** Git, CI/CD, Automation, YAML  
+# 💻 Tech Stack:
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mohamedasifs123&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mohamedasifs123&theme=dark&hide_border=false)<br/>
 
 ---
+[![](https://visitcount.itsvg.in/api?id=mohamedasifs123&icon=0&color=3)](https://visitcount.itsvg.in)
 
-## 🌟 Featured Projects
-
-### 📊 **Telemetry Dashboards for DPUs/IPUs**  
-Developed dynamic dashboards and telemetry pipelines for **NVIDIA BlueField DPUs**, leveraging **DOCA SDK** and **OpenTelemetry** for real-time monitoring.
-
-### 🖥️ **Job Portal Application**  
-Built a dynamic, full-stack **MERN** job portal with advanced filtering, secure user authentication, and salary estimation features.
-
-### 💬 **React Chat App with Golang Backend**  
-Created a real-time chat application using **React.js** and **Golang**, utilizing **WebSocket** for seamless communication.
-
-### 💸 **Donation Site with Payment Integration**  
-Developed a donation platform with **Razorpay** integration, enabling secure multi-platform transactions with a smooth user interface.
-
----
-
-## 🏆 Achievements
-
-- **LFX Mentee at The Linux Foundation**, selected from over 1000+ applicants.
-- Enhanced resource monitoring efficiency by **40%** with telemetry pipelines and real-time data from **Arista network switches**.
-- Optimized backend APIs, reducing job posting latency by **40%** in my Job Portal app.
-- Contributed to open-source projects in **network telemetry** and **monitoring tools**.
-
----
-
-## 📫 Let's Connect!
-
-- 💼 **LinkedIn:** [linkedin.com](https://linkedin.com/in/mohamed-asif-954895218)  
-- 🐙 **GitHub:** [github.com](https://github.com/mohamedasifs123)
-
----
-
-_"The best way to predict the future is to invent it."_ 🚀
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
